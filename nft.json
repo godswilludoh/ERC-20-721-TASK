@@ -1,0 +1,9 @@
+{
+    "name": "GeedsNFT",
+    "description": "GeedsNFT first collection, super cool!",
+    "image":"ipfs://bafybeic63iwghoj3tdimrwzown7sv6w5sh7laikkdriskc5uqejtmxmr4a",
+    "properties":[{
+        "trait_type": "cool dev looks",
+        "value": "100"
+    }]
+}
