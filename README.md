@@ -8,6 +8,7 @@ CONTRACT_ADDRESS = "0x7763a54eD15027be7C5160fba94B6C55Ab67FBd6"
 ETHERSCAN ADDRESS = "https://ropsten.etherscan.io/address/0x7763a54eD15027be7C5160fba94B6C55Ab67FBd6#code"
 
 ERC-721
+Token Address = "0x0E00acA89498745BD633a80cd02Be39433D4d9B1"
 
 Metadata: {
 "name": "GeedsNFT",
@@ -17,6 +18,17 @@ Metadata: {
 "trait_type": "cool dev looks",
 "value": "100"
 }]
+
+{
+"name": "GeedsNFT",
+"description": "GeedsNFT first collection, super cool!",
+"image":"ipfs://bafkreibdwo4lwhtqbkyj6jxx66u2skrtay7csk3tkljic7lbf4qefxn2ki",
+"properties":[{
+"trait_type": "finesse dev looks",
+"value": "200"
+}]
+}
+
 }
 
 Try running some of the following tasks:
